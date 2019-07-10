@@ -1,5 +1,4 @@
-# Heroku Flow Demo
-
+# Test
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
 ## Running Locally
@@ -30,3 +29,4 @@ Alternatively, you can deploy your own copy of the app using this button:
 ## Documentation
 
 For more information about using Heroku, check out https://devcenter.heroku.com/
+<a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
